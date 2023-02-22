@@ -19,7 +19,7 @@ This is a E-Commerce Website. This project is based on HTML, CSS, JS.
 - Create a PR
 
 ## Website link
-- https://abhijit49.github.io/E-Commerce-Website-CARA-/
+- https://mtanee.github.io/ecomerce-store/
 
 ## Support
 1. Report bug/issue
